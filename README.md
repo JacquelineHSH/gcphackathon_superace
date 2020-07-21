@@ -1,6 +1,6 @@
 # Google Cloud Hackathon
 
-## Team Super Ace
+## Team Super Ace - *First Place Winner*
 
 [Andrew Jing](https://github.com/andrewjing404)
 
@@ -12,8 +12,8 @@
 
 
 
-## Problem Overview
-Police disproportionately kills people of color. Comparing to white people, Hispanics are 1.3x more likely to be killed, native American 1.5x, black people is 2.6x, and Pacific Islanders are 3.7x.
+## Topic of Choice - Racial Injustice
+**Police disproportionately kills people of color.** Comparing to white people, Hispanics are 1.3x more likely to be killed, native American 1.5x, black people is 2.6x, and Pacific Islanders are 3.7x.
 
 **THE FACT ITSELF IS THE PROBLEM, no matter what's the cause.**
 
