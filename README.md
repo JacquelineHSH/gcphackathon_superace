@@ -17,7 +17,7 @@
 
 **THE FACT ITSELF IS THE PROBLEM, no matter what's the cause.**
 
-We want to use our analytical skills and explore how solving some of the social injustice might contribute to the resolution of police killing. 
+**In 24 hours**, we want to use our analytical skills and explore how solving some of the social injustice might contribute to the resolution of police killing. 
 
 We want to explore how poverty, education, and employment affect police killing. 
 
